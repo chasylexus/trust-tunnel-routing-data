@@ -11,7 +11,8 @@ Files:
   - explicit IP/domain fallback rules from `openwrt-xray-router/xray/50-routing.json.tpl`
   - flattened upstream `geosite` tags used by the current Throne profile:
     - `openai`, `anthropic`, `category-ai-!cn`, `youtube`, `spotify`, `facebook`, `instagram`, `whatsapp`, `twitter`, `telegram`, `tiktok`, `discord`, `linkedin`, `microsoft`, `google`, `wikimedia`, `bbc`, `cnn`, `netflix`, `kinopub`
-  - IPv4 CIDR entries broader than `/24` are intentionally dropped from this export.
+  - Router-authoritative Telegram and WhatsApp fallback ranges are preserved even when they are broader than `/24`, so the export matches the live router behavior more closely.
+  - The VPN IP section now follows router-authoritative client destination sets and explicit Telegram/WhatsApp fallback blocks; the old OpenCCK exact-IPv6 tail is intentionally excluded.
 - `bypass.txt`: direct list for Trust Tunnel `Bypass`, built from:
   - `rule-set/manual-d.json`
   - router client direct list `openwrt-xray-router/lists/c-D-domains.txt`
@@ -29,5 +30,5 @@ Trust Tunnel mapping:
 Important:
 - Trust Tunnel plain `example.com` rules do not cover arbitrary subdomains. Because of that, this export adds wildcard companions like `*.example.com` where coverage matters.
 - Your previous Trust Tunnel VPN list was preserved and re-included before expansion.
-- The current export keeps exact IPs and CIDR prefixes `/24` and narrower in `vpn.txt`.
-- For Telegram and WhatsApp IPv6 fallback, `vpn.txt` also includes OpenCCK `cidr6` prefixes filtered to `/62` and narrower, plus uncovered exact `ip6` addresses.
+- The current export keeps router-authoritative client destination IPs/CIDRs in `vpn.txt`.
+- Telegram and WhatsApp IPv6 fallback in `vpn.txt` now comes from the router's explicit CIDR rules rather than a large auto-generated exact-IP import.
