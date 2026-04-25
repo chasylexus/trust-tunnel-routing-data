@@ -1,0 +1,8 @@
+vpn_ips=2006
+vpn_ipv4=117
+vpn_ipv6=1889
+vpn_domains=5258
+bypass_ips=0
+bypass_domains=87
+excluded_routes=19
+unsupported=29
