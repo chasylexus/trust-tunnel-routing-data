@@ -12,7 +12,7 @@ Files:
   - flattened upstream `geosite` tags used by the current Throne profile:
     - `openai`, `anthropic`, `category-ai-!cn`, `youtube`, `spotify`, `facebook`, `instagram`, `whatsapp`, `twitter`, `telegram`, `tiktok`, `discord`, `linkedin`, `microsoft`, `google`, `wikimedia`, `bbc`, `cnn`, `netflix`, `kinopub`
   - Router-authoritative Telegram and WhatsApp fallback ranges are preserved even when they are broader than `/24`, so the export matches the live router behavior more closely.
-  - The VPN IP section now follows router-authoritative client destination sets and explicit Telegram/WhatsApp fallback blocks; the old OpenCCK exact-IPv6 tail is intentionally excluded.
+  - The VPN IP section now follows a shared OpenCCK-derived fallback set for Telegram, WhatsApp, X, TikTok, Instagram, and 4PDA: exact IPs are preserved, and CIDRs are kept only when they stay within the common safety envelope (`IPv4 >= /17`, `IPv6 >= /32`).
 - `bypass.txt`: direct list for Trust Tunnel `Bypass`, built from:
   - `rule-set/manual-d.json`
   - router client direct list `openwrt-xray-router/lists/c-D-domains.txt`
