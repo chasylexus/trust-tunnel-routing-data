@@ -1,6 +1,6 @@
-vpn_ips=53922
-vpn_ipv4=50158
-vpn_ipv6=3764
+vpn_ips=9278
+vpn_ipv4=7287
+vpn_ipv6=1991
 vpn_domains=5271
 bypass_ips=0
 bypass_domains=87
