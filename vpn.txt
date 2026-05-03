@@ -5376,6 +5376,7 @@
 140.213.60.32/30
 141.8.128.0/26
 141.8.180.0/25
+141.94.131.188
 141.101.104.140/30
 141.101.104.144/30
 141.101.104.152/30
@@ -11162,6 +11163,7 @@
 *.orbitera.com
 *.orithegame.com
 *.ottclub.tv
+*.ottservice.org
 *.outingsapp.com
 *.outlook.cn
 *.outlook.com
@@ -13804,6 +13806,7 @@ opticsforthecloud.net
 orbitera.com
 orithegame.com
 ottclub.tv
+ottservice.org
 outingsapp.com
 outlook.cn
 outlook.com
