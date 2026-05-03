@@ -1,7 +1,7 @@
 vpn_ips=9279
 vpn_ipv4=7288
 vpn_ipv6=1991
-vpn_domains=5273
+vpn_domains=5275
 bypass_ips=0
 bypass_domains=87
 excluded_routes=19
