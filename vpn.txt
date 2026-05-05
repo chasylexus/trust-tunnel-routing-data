@@ -11180,6 +11180,7 @@
 *.partylikeits1986.org
 *.passport.net
 *.patreon.com
+*.patreonusercontent.com
 *.paxlicense.org
 *.paypal.com
 *.paytr.com
@@ -13824,6 +13825,7 @@ partnerad.l.google.com
 partylikeits1986.org
 passport.net
 patreon.com
+patreonusercontent.com
 paxlicense.org
 paypal.com
 paytr.com
