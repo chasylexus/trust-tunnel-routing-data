@@ -9763,6 +9763,7 @@
 *.coova.net
 *.coova.org
 *.copilot-telemetry.githubusercontent.com
+*.copilot.com
 *.copilot.microsoft.com
 *.cortanaanalytics.com
 *.cortanaskills.com
@@ -12394,6 +12395,7 @@ coova.com
 coova.net
 coova.org
 copilot-telemetry.githubusercontent.com
+copilot.com
 copilot.microsoft.com
 cortanaanalytics.com
 cortanaskills.com
