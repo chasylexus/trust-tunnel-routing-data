@@ -9297,6 +9297,7 @@
 *.a-msedge.net
 *.aadrm.cn
 *.aadrm.com
+*.ai
 *.abc.xyz
 *.aboutfacebook.com
 *.accessfacebookfromschool.com
@@ -9609,6 +9610,7 @@
 *.blogspot.qa
 *.blogspot.re
 *.blogspot.ro
+*.blogspot.ru
 *.blogspot.rs
 *.blogspot.se
 *.blogspot.sg
@@ -10518,6 +10520,7 @@
 *.google.pt
 *.google.ro
 *.google.rs
+*.google.ru
 *.google.rw
 *.google.sc
 *.google.se
@@ -10891,6 +10894,7 @@
 *.microsoft.red
 *.microsoft.ro
 *.microsoft.rs
+*.microsoft.ru
 *.microsoft.se
 *.microsoft.si
 *.microsoft.tv
@@ -11869,6 +11873,7 @@
 *.youtube.qa
 *.youtube.ro
 *.youtube.rs
+*.youtube.ru
 *.youtube.sa
 *.youtube.se
 *.youtube.sg
@@ -11924,6 +11929,7 @@
 a-msedge.net
 aadrm.cn
 aadrm.com
+ai
 abc.xyz
 aboutfacebook.com
 accessfacebookfromschool.com
@@ -12240,6 +12246,7 @@ blogspot.pt
 blogspot.qa
 blogspot.re
 blogspot.ro
+blogspot.ru
 blogspot.rs
 blogspot.se
 blogspot.sg
@@ -13158,6 +13165,7 @@ google.ps
 google.pt
 google.ro
 google.rs
+google.ru
 google.rw
 google.sc
 google.se
@@ -13535,6 +13543,7 @@ microsoft.pt
 microsoft.red
 microsoft.ro
 microsoft.rs
+microsoft.ru
 microsoft.se
 microsoft.si
 microsoft.tv
@@ -14521,6 +14530,7 @@ youtube.pt
 youtube.qa
 youtube.ro
 youtube.rs
+youtube.ru
 youtube.sa
 youtube.se
 youtube.sg

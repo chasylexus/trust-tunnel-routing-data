@@ -29,6 +29,8 @@ Trust Tunnel mapping:
 
 Important:
 - Trust Tunnel plain `example.com` rules do not cover arbitrary subdomains. Because of that, this export adds wildcard companions like `*.example.com` where coverage matters.
+- Broad `.ru` bypass is listed in `bypass.txt`; narrow `.ru` proxy exceptions are listed explicitly in `vpn.txt` with wildcard companions.
+- Broad `.ai` proxy catchall is listed in `vpn.txt` with both bare and wildcard entries.
 - Your previous Trust Tunnel VPN list was preserved and re-included before expansion.
 - The current export keeps router-authoritative client destination IPs/CIDRs in `vpn.txt`.
 - Telegram and WhatsApp IPv6 fallback in `vpn.txt` now comes from the router's explicit CIDR rules rather than a large auto-generated exact-IP import.

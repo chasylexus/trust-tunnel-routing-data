@@ -27,6 +27,7 @@
 *.network-test.debian.org
 *.nmcheck.gnome.org
 *.nomadix.com
+*.ru
 *.sbrf.ru
 *.tele2.ru
 *.turkcell.com.tr
@@ -71,6 +72,7 @@ mzstatic.com
 network-test.debian.org
 nmcheck.gnome.org
 nomadix.com
+ru
 sbrf.ru
 tele2.ru
 turkcell.com.tr
