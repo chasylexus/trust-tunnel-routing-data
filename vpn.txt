@@ -10832,6 +10832,7 @@
 *.madewithcode.com
 *.mail-ads.google.com
 *.mail.google.com
+*.make.com
 *.makecode.org
 *.makersuite.google.com
 *.managedmeetingrooms.com
@@ -13500,6 +13501,7 @@ m12.vc
 madewithcode.com
 mail-ads.google.com
 mail.google.com
+make.com
 makecode.org
 makersuite.google.com
 managedmeetingrooms.com
