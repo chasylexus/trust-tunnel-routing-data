@@ -9631,6 +9631,8 @@
 *.bookstagram.com
 *.boswp.com
 *.botframework.com
+*.app.link
+*.bnc.lt
 *.branch.io
 *.brazilpartneruniversity.com
 *.breakdown.me
@@ -10338,6 +10340,7 @@
 *.gonglchuangl.net
 *.gongyichuangyi.net
 *.goo.gl
+*.goo.gle
 *.goog.le
 *.googel.com
 *.googil.com
@@ -10681,6 +10684,7 @@
 *.ie8.co
 *.ie9.com
 *.ifttt.com
+*.ift.tt
 *.ig.me
 *.igcdn.com
 *.igoogle.com
@@ -10703,6 +10707,7 @@
 *.instagainer.com
 *.instagda.com
 *.instagify.com
+*.instagr.am
 *.instagmania.com
 *.instagor.com
 *.instagram-brand.com
@@ -10984,6 +10989,9 @@
 *.minecraftshop.com
 *.minimax.io
 *.mistral.ai
+*.m.me
+*.messenger.com
+*.meta.com
 *.mmdnn.com
 *.mncmsidlab1.cn
 *.mobileads.google.com
@@ -11092,7 +11100,10 @@
 *.notebooklm.google.com
 *.notebooklm.googleapis.com
 *.notion.com
+*.notion.site
 *.notion.so
+*.notion-static.com
+*.notionusercontent.com
 *.npm.community
 *.npmjs.com
 *.npmjs.org
@@ -11188,6 +11199,8 @@
 *.patreonusercontent.com
 *.paxlicense.org
 *.paypal.com
+*.paypal.me
+*.paypalobjects.com
 *.paytr.com
 *.pbiwebcontent.cn
 *.peacocktv.com
@@ -11243,8 +11256,10 @@
 *.projectbaseline.com
 *.projectmurphy.net
 *.projectsangam.com
+*.pm.me
 *.proton.me
 *.protonmail.com
+*.protonvpn.com
 *.proxyconfig.corp.google.com
 *.pscdn.co
 *.pscp.tv
@@ -11388,7 +11403,9 @@
 *.sslredirect.corp.google.com
 *.stability.ai
 *.stackexchange.com
+*.stackauth.com
 *.stackoverflow.com
+*.sstatic.net
 *.stadia.dev
 *.staffhub.ms
 *.staging-controlbe.floonet.goog
@@ -11406,6 +11423,8 @@
 *.streaming-uberproxy-rotation.corp.google.com
 *.streaming-uberproxy.corp.google.com
 *.stripe.com
+*.stripe.network
+*.stripecdn.com
 *.studywatchbyverily.com
 *.studywatchbyverily.org
 *.stxmosquito.com
@@ -11488,6 +11507,7 @@
 *.tiktokw.eu
 *.tiktokw.us
 *.tiltbrush.com
+*.threads.net
 *.timelinestoryteller.com
 *.together.ai
 *.ton.org
@@ -12267,6 +12287,8 @@ bolt.new
 bookstagram.com
 boswp.com
 botframework.com
+app.link
+bnc.lt
 branch.io
 brazilpartneruniversity.com
 breakdown.me
@@ -12981,6 +13003,7 @@ gonglchuangl.net
 gongyichuangyi.net
 goo
 goo.gl
+goo.gle
 goog
 goog.le
 googel.com
@@ -13329,11 +13352,13 @@ ie11.com
 ie8.co
 ie9.com
 ifttt.com
+ift.tt
 ig.me
 igcdn.com
 igoogle.com
 igsonar.com
 igtv.com
+instagr.am
 ikea.com.tr
 imaginecup.pl
 imasdk.googleapis.com
@@ -13633,6 +13658,9 @@ minecraftservices.com
 minecraftshop.com
 minimax.io
 mistral.ai
+m.me
+messenger.com
+meta.com
 mmdnn.com
 mncmsidlab1.cn
 mobileads.google.com
@@ -13742,7 +13770,10 @@ notebooklm.google
 notebooklm.google.com
 notebooklm.googleapis.com
 notion.com
+notion.site
 notion.so
+notion-static.com
+notionusercontent.com
 npm.community
 npmjs.com
 npmjs.org
@@ -13839,6 +13870,8 @@ patreon.com
 patreonusercontent.com
 paxlicense.org
 paypal.com
+paypal.me
+paypalobjects.com
 paytr.com
 pbiwebcontent.cn
 peacocktv.com
@@ -13894,8 +13927,10 @@ projectara.com
 projectbaseline.com
 projectmurphy.net
 projectsangam.com
+pm.me
 proton.me
 protonmail.com
+protonvpn.com
 proxyconfig.corp.google.com
 pscdn.co
 pscp.tv
@@ -14040,7 +14075,9 @@ ssl.gstatic.com
 sslredirect.corp.google.com
 stability.ai
 stackexchange.com
+stackauth.com
 stackoverflow.com
+sstatic.net
 stadia.dev
 staffhub.ms
 staging-controlbe.floonet.goog
@@ -14058,6 +14095,8 @@ storeedgefd.dsx.mp.microsoft.com
 streaming-uberproxy-rotation.corp.google.com
 streaming-uberproxy.corp.google.com
 stripe.com
+stripe.network
+stripecdn.com
 studywatchbyverily.com
 studywatchbyverily.org
 stxmosquito.com
@@ -14140,6 +14179,7 @@ tiktokv.us
 tiktokw.eu
 tiktokw.us
 tiltbrush.com
+threads.net
 timelinestoryteller.com
 together.ai
 ton.org
