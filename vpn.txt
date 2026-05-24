@@ -11379,6 +11379,7 @@
 *.speechs3proto2-pa.googleapis.com
 *.speedtest.net
 *.spicywriter.com
+*.spinorama.org
 *.spo-msedge.net
 *.sportsfacebook.com
 *.sportstream.com
@@ -14052,6 +14053,7 @@ sora.com
 speechs3proto2-pa.googleapis.com
 speedtest.net
 spicywriter.com
+spinorama.org
 spo-msedge.net
 sportsfacebook.com
 sportstream.com
