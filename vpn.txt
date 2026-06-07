@@ -10824,6 +10824,8 @@
 *.logger.corp.google.com
 *.login-account.net
 *.login.corp.google.com
+*.lostfilm.download
+*.lostfilm.tv
 *.lovable.dev
 *.lovart.ai
 *.lpsnmedia.net
@@ -13494,6 +13496,8 @@ logger-dev.corp.google.com
 logger.corp.google.com
 login-account.net
 login.corp.google.com
+lostfilm.download
+lostfilm.tv
 lovable.dev
 lovart.ai
 lpsnmedia.net
