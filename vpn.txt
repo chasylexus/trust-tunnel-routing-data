@@ -10824,7 +10824,6 @@
 *.logger.corp.google.com
 *.login-account.net
 *.login.corp.google.com
-*.login.sonos.com
 *.lostfilm.download
 *.lostfilm.tv
 *.lovable.dev
@@ -11060,7 +11059,6 @@
 *.muscdn.com
 *.musical.ly
 *.musicgpt.com
-*.musicpartners.sonos.com
 *.mwf-service.akamaized.net
 *.myfbfans.com
 *.mymicrosoft.com
@@ -11229,7 +11227,6 @@
 *.pki-goog.l.google.com
 *.plannotator.ai
 *.play.google.com
-*.play.sonos.com
 *.playfab.com
 *.playfabapi.com
 *.playstation.com
@@ -11379,6 +11376,7 @@
 *.softorino.com
 *.software.download.prss.microsoft.com
 *.solveforx.com
+*.sonos.com
 *.sora.ai
 *.sora.com
 *.speechs3proto2-pa.googleapis.com
@@ -11700,7 +11698,6 @@
 *.workplace.com
 *.workplaceusecases.com
 *.worldhack.com
-*.ws.sonos.com
 *.wscont1.apps.microsoft.com
 *.wscont2.apps.microsoft.com
 *.wtfhappenedin1971.com
@@ -13500,7 +13497,6 @@ logger-dev.corp.google.com
 logger.corp.google.com
 login-account.net
 login.corp.google.com
-login.sonos.com
 lostfilm.download
 lostfilm.tv
 lovable.dev
@@ -13737,7 +13733,6 @@ mtalk.google.com
 muscdn.com
 musical.ly
 musicgpt.com
-musicpartners.sonos.com
 mwf-service.akamaized.net
 myfbfans.com
 mymicrosoft.com
@@ -13908,7 +13903,6 @@ pixel.facebook.com
 pki-goog.l.google.com
 plannotator.ai
 play.google.com
-play.sonos.com
 playfab.com
 playfabapi.com
 playstation.com
@@ -14059,6 +14053,7 @@ snapseed.com
 softorino.com
 software.download.prss.microsoft.com
 solveforx.com
+sonos.com
 sora.ai
 sora.com
 speechs3proto2-pa.googleapis.com
@@ -14381,7 +14376,6 @@ workos.com
 workplace.com
 workplaceusecases.com
 worldhack.com
-ws.sonos.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 wtfhappenedin1971.com
