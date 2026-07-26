@@ -11333,6 +11333,7 @@
 *.s-msedge.net
 *.s-msft.com
 *.s-msn.com
+*.s3.dualstack.eu-west-1.amazonaws.com
 *.safebrowsing-cache.google.com
 *.safebrowsing.googleapis.com
 *.sankie.net
@@ -12557,7 +12558,6 @@ envato-static.com
 envato.com
 envatousercontent.com
 episodic.com
-eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 evonomics.com
 expresswifi.com
 f.c2r.ts.cdn.office.net
@@ -14010,6 +14010,7 @@ s-microsoft.com
 s-msedge.net
 s-msft.com
 s-msn.com
+s3.dualstack.eu-west-1.amazonaws.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 sankie.net
