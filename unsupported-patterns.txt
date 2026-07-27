@@ -15,6 +15,7 @@ manual-t.json:keyword:rezka
 manual-t.json:keyword:rutracker
 manual-t.json:keyword:speedtest
 manual-t.json:keyword:whatsapp
+manual-t.json:regex:(^|\.)voidboost\.[a-z0-9-]+$
 microsoft.regex:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 netflix.regex:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 netflix.regex:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
