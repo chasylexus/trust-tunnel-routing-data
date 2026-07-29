@@ -10793,6 +10793,7 @@
 *.labs.google.com
 *.langchain.com
 *.lanternal.com
+*.last.fm
 *.latampartneruniversity.com
 *.learn.microsoft.com
 *.libgen.li
@@ -13468,6 +13469,8 @@ labs.google
 labs.google.com
 langchain.com
 lanternal.com
+last.fm
+lastfm.freetls.fastly.net
 latampartneruniversity.com
 learn.microsoft.com
 libgen.li
@@ -14380,6 +14383,7 @@ workos.com
 workplace.com
 workplaceusecases.com
 worldhack.com
+ws.audioscrobbler.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 wtfhappenedin1971.com
