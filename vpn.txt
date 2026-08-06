@@ -11413,6 +11413,8 @@
 *.sonos.com
 *.sora.ai
 *.sora.com
+*.suno.ai
+*.suno.com
 *.speechs3proto2-pa.googleapis.com
 *.speedtest.net
 *.spicywriter.com
@@ -14126,6 +14128,8 @@ solveforx.com
 sonos.com
 sora.ai
 sora.com
+suno.ai
+suno.com
 speechs3proto2-pa.googleapis.com
 speedtest.net
 spicywriter.com
