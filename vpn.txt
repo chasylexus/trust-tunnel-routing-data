@@ -10812,6 +10812,8 @@
 *.kino.pub
 *.kinogo.biz
 *.kinopub.me
+*.proxykp.xyz
+*.sgupd.com
 *.kinopub.online
 *.kiro.dev
 *.klik.me
@@ -13522,6 +13524,8 @@ kingstagram.com
 kino.pub
 kinogo.biz
 kinopub.me
+proxykp.xyz
+sgupd.com
 kinopub.online
 kiro.dev
 klik.me
