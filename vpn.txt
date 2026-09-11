@@ -9893,6 +9893,7 @@
 *.envato.com
 *.envatousercontent.com
 *.episodic.com
+*.etrecheck.com
 *.evonomics.com
 *.expresswifi.com
 *.f.c2r.ts.cdn.office.net
@@ -11415,6 +11416,7 @@
 *.sonos.com
 *.sora.ai
 *.sora.com
+*.spook.boo
 *.suno.ai
 *.suno.com
 *.speechs3proto2-pa.googleapis.com
@@ -12596,6 +12598,7 @@ envato-static.com
 envato.com
 envatousercontent.com
 episodic.com
+etrecheck.com
 evonomics.com
 expresswifi.com
 f.c2r.ts.cdn.office.net
@@ -14132,6 +14135,7 @@ solveforx.com
 sonos.com
 sora.ai
 sora.com
+spook.boo
 suno.ai
 suno.com
 speechs3proto2-pa.googleapis.com
