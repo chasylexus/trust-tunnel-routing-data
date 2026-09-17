@@ -10815,6 +10815,8 @@
 *.kinopub.me
 *.proxykp.xyz
 *.sgupd.com
+*.1abab.ru
+*.api.boramoraboom.ru
 *.kinopub.online
 *.kiro.dev
 *.klik.me
@@ -13529,6 +13531,8 @@ kinogo.biz
 kinopub.me
 proxykp.xyz
 sgupd.com
+1abab.ru
+api.boramoraboom.ru
 kinopub.online
 kiro.dev
 klik.me
