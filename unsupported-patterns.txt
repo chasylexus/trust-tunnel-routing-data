@@ -28,3 +28,6 @@ surge.skip-proxy:*.guest.*
 surge.skip-proxy:*.hotspot.*
 surge.skip-proxy:*.wi-fi.*
 surge.skip-proxy:*.wifi.*
+manual-a.keyword:avoddashs
+manual-a.exclude:aws.amazon.com
+manual-a.exclude:aws.a2z.com

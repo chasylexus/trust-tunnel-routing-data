@@ -34,3 +34,15 @@ Important:
 - Your previous Trust Tunnel VPN list was preserved and re-included before expansion.
 - The current export keeps router-authoritative client destination IPs/CIDRs in `vpn.txt`.
 - Telegram and WhatsApp IPv6 fallback in `vpn.txt` now comes from the router's explicit CIDR rules rather than a large auto-generated exact-IP import.
+
+## Amazon and streaming coverage (2026-09-30)
+
+The VPN export adds the Amazon consumer snapshot from SagerNet (Amazon minus
+AWS) and narrow Prime Video / Hulu CDN additions from blackmatrix7. Existing
+Prime Video and CBS / Paramount+ coverage is retained. Generic amazonaws.com
+and cloudfront.net suffixes are not added.
+
+This flat T+A format cannot express the avoddashs keyword or carve
+aws.amazon.com / aws.a2z.com out of their parent wildcards. Those limitations
+are recorded in unsupported-patterns.txt. The client chooses the tunnel;
+this export alone does not choose A for individual domains.
